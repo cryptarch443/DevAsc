@@ -30,5 +30,3 @@ class ConfigurationParser:
 			ip_address = self.parseCustomerIP(vlan)
 			customerData[customerName] = [vlan, ip_address]
 		return customerData
-
-print(ConfigurationParser().parseCustomerData())
