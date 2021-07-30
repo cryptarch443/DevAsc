@@ -1,0 +1,23 @@
+{
+	"People":
+	[
+		{
+			"id": 1,
+			"FirstName": "Ben",
+			"LastName": "Finkel",
+			"Email": "ben.finkel@cbtnuggets.com"
+		},
+		{
+			"id": 2,
+			"FirstName": "Jane",
+			"LastName": "Doe",
+			"Email": "jane.doe@cbtnuggets.com"
+		},
+		{
+			"id": 3,
+			"FirstName": "Pat",
+			"LastName": "Smith",
+			"Email": "pat.smith@cbtnuggets.com"
+		}
+	]
+}
