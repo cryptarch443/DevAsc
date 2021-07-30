@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<People>
+	<Person id="1">
+		<FirstName>Ben</FirstName>
+		<LastName>Finkel</LastName>
+		<Email>ben.finkel@cbtnuggets.com</Email>
+	</Person>
+
+	<Person id="2">
+		<FirstName>Jane</FirstName>
+		<LastName>Doe</LastName>
+		<Email>jane.doe@cbtnuggets.com</Email>
+	</Person>
+
+	<Person id="3">
+		<FirstName>Pat</FirstName>
+		<LastName>Smith</LastName>
+		<Email>pat.smith@cbutnuggets.com</Email>
+	</Person>
+</People>
