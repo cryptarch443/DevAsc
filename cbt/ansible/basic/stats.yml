@@ -1,0 +1,8 @@
+---
+- name: Get stats and write to desktop
+  hosts: ubuntuhosts
+  tasks:
+    - name: Get system status and info
+      shell: uname -a > /mnt/c/Users/sulth/Documents/Automation/DevAsc/cbt/ansible/stats.txt
+    - name: Print my username
+      shell: whoami >> /mnt/c/Users/sulth/Documents/Automation/DevAsc/cbt/ansible/stats.txt
